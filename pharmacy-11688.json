@@ -1,0 +1,54 @@
+{
+    "38261": {
+        "ID": 38261,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 11688,
+        "address": "г. Мелеуз, ул. Первомайская, 16А",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            52.967628,
+            55.936751
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 52,
+        "slug": "meleuz"
+    },
+    "25571": {
+        "ID": 25571,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 11688,
+        "address": "г. Мелеуз, ул. Октябрьская, 70/1",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            52.970209,
+            55.931638
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 52,
+        "slug": "meleuz"
+    }
+}

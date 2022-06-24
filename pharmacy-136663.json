@@ -1,0 +1,54 @@
+{
+    "28932": {
+        "ID": 28932,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 56,
+        "cityID": 136663,
+        "address": "г. Медногорск, ул. Гагарина, 14",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            51.396435,
+            57.600947
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 106,
+        "entityName": "Общество с ограниченной ответственностью \"Аптечный склад \" Марий Эл\"",
+        "entitySlug": "as-marij-el",
+        "INN": "2311242609",
+        "OGRN": "1172375064960",
+        "entityAddress": "350016, Краснодарский край, Краснодар, Н.С. Котлярова, 10 л А пом 48",
+        "allowUseCard": true,
+        "districtID": 1963,
+        "slug": "mednogorsk"
+    },
+    "25086": {
+        "ID": 25086,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 56,
+        "cityID": 136663,
+        "address": "г. Медногорск, ул. Герцена, 3",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            51.406029,
+            57.583389
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 106,
+        "entityName": "Общество с ограниченной ответственностью \"Аптечный склад \" Марий Эл\"",
+        "entitySlug": "as-marij-el",
+        "INN": "2311242609",
+        "OGRN": "1172375064960",
+        "entityAddress": "350016, Краснодарский край, Краснодар, Н.С. Котлярова, 10 л А пом 48",
+        "allowUseCard": true,
+        "districtID": 1963,
+        "slug": "mednogorsk"
+    }
+}

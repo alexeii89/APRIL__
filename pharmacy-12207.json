@@ -1,0 +1,28 @@
+{
+    "34858": {
+        "ID": 34858,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 12207,
+        "address": "с. Верхние Татышлы, ул. Ленина, 63а",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            56.291885,
+            55.854569
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 60,
+        "slug": "verhnie_tatyshly"
+    }
+}

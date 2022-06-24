@@ -1,0 +1,54 @@
+{
+    "14451": {
+        "ID": 14451,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 17714,
+        "address": "Нурлат, К.Маркса, 25",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-21:00",
+        "coords": [
+            54.430614,
+            50.805573
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 117,
+        "slug": "nurlat"
+    },
+    "14455": {
+        "ID": 14455,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 17714,
+        "address": "Нурлат, Гиматдинова, 81",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            54.427015,
+            50.806963
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 117,
+        "slug": "nurlat"
+    }
+}

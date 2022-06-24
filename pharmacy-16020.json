@@ -1,0 +1,54 @@
+{
+    "13923": {
+        "ID": 13923,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 16020,
+        "address": "Бугульма, Мусы Джалиля, 33",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-21:00",
+        "coords": [
+            54.534388,
+            52.793117
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 98,
+        "slug": "bugulma"
+    },
+    "14495": {
+        "ID": 14495,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 16020,
+        "address": "Бугульма, Ленина, 51",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-21:00",
+        "coords": [
+            54.542963,
+            52.795699
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 98,
+        "slug": "bugulma"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "35076": {
+        "ID": 35076,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 13012,
+        "address": "г. Янаул, ул. Азина, 16",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            56.266387,
+            54.939676
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 68,
+        "slug": "yanaul"
+    },
+    "19527": {
+        "ID": 19527,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 13012,
+        "address": "г. Янаул, ул. Ленина, 8",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            56.268561,
+            54.933285
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 68,
+        "slug": "yanaul"
+    }
+}

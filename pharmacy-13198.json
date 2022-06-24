@@ -1,0 +1,54 @@
+{
+    "20452": {
+        "ID": 20452,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 13198,
+        "address": "г. Давлеканово, ул. Заводская, 8а",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            54.214517,
+            55.052593
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 70,
+        "slug": "davlekanovo"
+    },
+    "20199": {
+        "ID": 20199,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 13198,
+        "address": "г. Давлеканово, ул. Мажита Гафури, 10",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            54.213004,
+            55.02956
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 70,
+        "slug": "davlekanovo"
+    }
+}

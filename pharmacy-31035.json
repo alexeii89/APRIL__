@@ -1,0 +1,54 @@
+{
+    "13409": {
+        "ID": 13409,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 50,
+        "cityID": 31035,
+        "address": "г. Ногинск, ул. Комсомольская, 26 Г",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-22:00",
+        "coords": [
+            55.856641,
+            38.444005
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 70,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад \"Подмосковье\"",
+        "entitySlug": "as-podmoskove",
+        "INN": "2310200613",
+        "OGRN": "1172375037845",
+        "entityAddress": "350089, Краснодарский край, Краснодар, Чекистов, 34/1 помещение № 10",
+        "allowUseCard": true,
+        "districtID": 288,
+        "slug": "noginsk"
+    },
+    "16526": {
+        "ID": 16526,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 50,
+        "cityID": 31035,
+        "address": "г. Ногинск, ул. 3 Интернационала, 77",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            55.854254,
+            38.436563
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 70,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад \"Подмосковье\"",
+        "entitySlug": "as-podmoskove",
+        "INN": "2310200613",
+        "OGRN": "1172375037845",
+        "entityAddress": "350089, Краснодарский край, Краснодар, Чекистов, 34/1 помещение № 10",
+        "allowUseCard": true,
+        "districtID": 288,
+        "slug": "noginsk"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "28020": {
+        "ID": 28020,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 11125,
+        "address": "д. Улукулево, ул. Карла Маркса, 99",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            54.431787,
+            56.324749
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 46,
+        "slug": "ulukulevo"
+    }
+}

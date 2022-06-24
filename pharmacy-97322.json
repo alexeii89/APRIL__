@@ -1,0 +1,27 @@
+{
+    "27999": {
+        "ID": 27999,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 74,
+        "cityID": 97322,
+        "address": "г. Златоуст, проспект им. Ю.А. Гагарина, 1-я линия, 14",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            55.14537,
+            59.669199
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": false,
+        "entityID": 2,
+        "entityName": "Общество с ограниченной ответственностью \"Апрельфарм\"",
+        "INN": "2308124789",
+        "OGRN": "1062308033732",
+        "entityAddress": "350089, Краснодарский край, Краснодар, пр-т Чекистов, 34/1",
+        "allowUseCard": true,
+        "districtID": 1590,
+        "slug": "zlatoust"
+    }
+}

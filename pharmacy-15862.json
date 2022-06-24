@@ -1,0 +1,54 @@
+{
+    "14441": {
+        "ID": 14441,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 15862,
+        "address": "Бавлы, Пионерская, 8 А",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            54.401427,
+            53.234195
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 96,
+        "slug": "bavly"
+    },
+    "18832": {
+        "ID": 18832,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 15862,
+        "address": "г. Бавлы, ул. Горького, 3",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            54.408219,
+            53.237799
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 96,
+        "slug": "bavly"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "14447": {
+        "ID": 14447,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 15101,
+        "address": "Актюбинский, Губкина, 46",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            54.812142,
+            52.814226
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 87,
+        "slug": "aktyubinskij"
+    }
+}

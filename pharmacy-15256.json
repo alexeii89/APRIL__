@@ -1,0 +1,28 @@
+{
+    "14452": {
+        "ID": 14452,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 15256,
+        "address": "Актаныш, Ленина, 64 А",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            55.724169,
+            54.05898
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 89,
+        "slug": "aktanysh"
+    }
+}

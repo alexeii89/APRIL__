@@ -1,0 +1,80 @@
+{
+    "29383": {
+        "ID": 29383,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 13292,
+        "address": "г. Дюртюли, ул. Ленина, 42",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            55.491653,
+            54.841469
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 71,
+        "slug": "dyurtyuli"
+    },
+    "32237": {
+        "ID": 32237,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 13292,
+        "address": "г. Дюртюли, ул. Ленина, 5",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            55.486208,
+            54.866717
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 71,
+        "slug": "dyurtyuli"
+    },
+    "29636": {
+        "ID": 29636,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 13292,
+        "address": "г. Дюртюли, ул. Первомайская, 17",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            55.496561,
+            54.848645
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 71,
+        "slug": "dyurtyuli"
+    }
+}

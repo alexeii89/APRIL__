@@ -1,0 +1,54 @@
+{
+    "27655": {
+        "ID": 27655,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 9009,
+        "address": "с. Толбазы, ул. Ленина, 112",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            54.010538,
+            55.886404
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 22,
+        "slug": "tolbazy"
+    },
+    "19749": {
+        "ID": 19749,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 9009,
+        "address": "с. Толбазы Ленина 34а",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            54.026464,
+            55.884585
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 22,
+        "slug": "tolbazy"
+    }
+}

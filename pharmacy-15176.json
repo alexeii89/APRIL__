@@ -1,0 +1,54 @@
+{
+    "14453": {
+        "ID": 14453,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 15176,
+        "address": "Азнакаево, Нефтяников, 20",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            54.855815,
+            53.080868
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 87,
+        "slug": "aznakaevo"
+    },
+    "34855": {
+        "ID": 34855,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 15176,
+        "address": "г. Азнакаево, ул. Ленина, 33В",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            54.851536,
+            53.077922
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 87,
+        "slug": "aznakaevo"
+    }
+}

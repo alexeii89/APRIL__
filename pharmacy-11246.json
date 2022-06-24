@@ -1,0 +1,28 @@
+{
+    "37432": {
+        "ID": 37432,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 11246,
+        "address": "с. Куяново, ул. Зеленая, 10",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            55.807989,
+            54.534655
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 48,
+        "slug": "kuyanovo"
+    }
+}

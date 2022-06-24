@@ -1,0 +1,54 @@
+{
+    "20603": {
+        "ID": 20603,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 63,
+        "cityID": 155435,
+        "address": "г. Отрадный, ул. Победы, 18",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            53.371474,
+            51.349448
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 107,
+        "entityName": "Общество с ограниченной ответственностью \" Аптечный склад \"Самара\"",
+        "entitySlug": "as-samara",
+        "INN": "2311244941",
+        "OGRN": "1172375075542",
+        "entityAddress": "350016, Краснодарский край, Краснодар, им. Котлярова Н.С., 10, литер А, пом 39",
+        "allowUseCard": true,
+        "districtID": 2143,
+        "slug": "otradnyj"
+    },
+    "18552": {
+        "ID": 18552,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 63,
+        "cityID": 155435,
+        "address": "г. Отрадный, ул. Советская, 68",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            53.372795,
+            51.353757
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 107,
+        "entityName": "Общество с ограниченной ответственностью \" Аптечный склад \"Самара\"",
+        "entitySlug": "as-samara",
+        "INN": "2311244941",
+        "OGRN": "1172375075542",
+        "entityAddress": "350016, Краснодарский край, Краснодар, им. Котлярова Н.С., 10, литер А, пом 39",
+        "allowUseCard": true,
+        "districtID": 2143,
+        "slug": "otradnyj"
+    }
+}

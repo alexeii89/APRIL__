@@ -1,0 +1,28 @@
+{
+    "26294": {
+        "ID": 26294,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 9823,
+        "address": "г. Бирск, ул. Мира, 28а",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            55.417425,
+            55.532821
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 30,
+        "slug": "birsk"
+    }
+}

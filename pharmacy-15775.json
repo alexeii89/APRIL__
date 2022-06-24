@@ -1,0 +1,54 @@
+{
+    "14469": {
+        "ID": 14469,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 15775,
+        "address": "г. Арск, Советская площадь, 21",
+        "workingDays": "Ежедневно",
+        "workingTime": "07:30-20:30",
+        "coords": [
+            56.091203,
+            49.879502
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 94,
+        "slug": "arsk"
+    },
+    "24277": {
+        "ID": 24277,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 15775,
+        "address": "г. Арск, ул. Коммуны, 6",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            56.078209,
+            49.88663
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 94,
+        "slug": "arsk"
+    }
+}

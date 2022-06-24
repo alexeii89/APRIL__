@@ -1,0 +1,102 @@
+{
+    "29616": {
+        "ID": 29616,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 74,
+        "cityID": 97405,
+        "address": "г. Миасс, проспект Автозаводцев, 33",
+        "workingDays": "Ежедневно",
+        "workingTime": "09:00-21:00",
+        "coords": [
+            55.056054,
+            60.108043
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": false,
+        "entityID": 2,
+        "entityName": "Общество с ограниченной ответственностью \"Апрельфарм\"",
+        "INN": "2308124789",
+        "OGRN": "1062308033732",
+        "entityAddress": "350089, Краснодарский край, Краснодар, пр-т Чекистов, 34/1",
+        "allowUseCard": true,
+        "districtID": 1595,
+        "slug": "miass"
+    },
+    "27346": {
+        "ID": 27346,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 74,
+        "cityID": 97405,
+        "address": "г. Миасс, ул. Романенко, 8",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            55.061895,
+            60.111863
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": false,
+        "entityID": 2,
+        "entityName": "Общество с ограниченной ответственностью \"Апрельфарм\"",
+        "INN": "2308124789",
+        "OGRN": "1062308033732",
+        "entityAddress": "350089, Краснодарский край, Краснодар, пр-т Чекистов, 34/1",
+        "allowUseCard": true,
+        "districtID": 1595,
+        "slug": "miass"
+    },
+    "27757": {
+        "ID": 27757,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 74,
+        "cityID": 97405,
+        "address": "г. Миасс, проспект Автозаводцев, 12",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            55.062107,
+            60.107348
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": false,
+        "entityID": 2,
+        "entityName": "Общество с ограниченной ответственностью \"Апрельфарм\"",
+        "INN": "2308124789",
+        "OGRN": "1062308033732",
+        "entityAddress": "350089, Краснодарский край, Краснодар, пр-т Чекистов, 34/1",
+        "allowUseCard": true,
+        "districtID": 1595,
+        "slug": "miass"
+    },
+    "27859": {
+        "ID": 27859,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 74,
+        "cityID": 97405,
+        "address": "г. Миасс, ул. Уральская, 6",
+        "workingDays": "Ежедневно",
+        "workingTime": "09:00-21:00",
+        "coords": [
+            55.061843,
+            60.118041
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": false,
+        "entityID": 2,
+        "entityName": "Общество с ограниченной ответственностью \"Апрельфарм\"",
+        "INN": "2308124789",
+        "OGRN": "1062308033732",
+        "entityAddress": "350089, Краснодарский край, Краснодар, пр-т Чекистов, 34/1",
+        "allowUseCard": true,
+        "districtID": 1595,
+        "slug": "miass"
+    }
+}

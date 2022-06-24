@@ -1,0 +1,28 @@
+{
+    "14430": {
+        "ID": 14430,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 18455,
+        "address": "пгт. Уруссу, ул. Ленина, 2 В",
+        "workingDays": "Ежедневно",
+        "workingTime": "07:00-20:00",
+        "coords": [
+            54.598994,
+            53.468803
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 128,
+        "slug": "urussu"
+    }
+}

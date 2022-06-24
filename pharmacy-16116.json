@@ -1,0 +1,80 @@
+{
+    "13913": {
+        "ID": 13913,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 16116,
+        "address": "Буинск, Гагарина, 18 а",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-21:00",
+        "coords": [
+            54.985768,
+            48.29773
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 99,
+        "slug": "buinsk"
+    },
+    "13930": {
+        "ID": 13930,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 16116,
+        "address": "Буинск, Ефремова, 146",
+        "workingDays": "Ежедневно",
+        "workingTime": "Круглосуточно",
+        "coords": [
+            54.978439,
+            48.29426
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 99,
+        "slug": "buinsk"
+    },
+    "14429": {
+        "ID": 14429,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 16,
+        "cityID": 16116,
+        "address": "Буинск, Р.Люксембург, 44",
+        "workingDays": "Ежедневно",
+        "workingTime": "07:30-21:00",
+        "coords": [
+            54.963,
+            48.287546
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 99,
+        "slug": "buinsk"
+    }
+}

@@ -1,0 +1,7 @@
+DEBUG=False
+BOT_TOKEN = '1015833633:AAE9MOvRN5zUuZ2P59wy14eHdNJoYJRoJyk'
+
+DB_USER = 'pharmparser'
+DB_PASSWORD = 'nn)TuwAWGW*'
+DB_HOST = '92.53.97.5'
+DB_NAME = 'pharmsraperdb'

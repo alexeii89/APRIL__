@@ -1,0 +1,28 @@
+{
+    "22099": {
+        "ID": 22099,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 10719,
+        "address": "с. Верхнеяркеево, ул. Коммунистическая, 52",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            55.452841,
+            54.316763
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 42,
+        "slug": "verhneyarkeevo"
+    }
+}

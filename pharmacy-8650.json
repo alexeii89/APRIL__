@@ -1,0 +1,54 @@
+{
+    "26252": {
+        "ID": 26252,
+        "formatID": 5,
+        "brandID": 6,
+        "regionID": 2,
+        "cityID": 8650,
+        "address": "г. Кумертау, ул. Ленина, 25",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            52.759325,
+            55.796195
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 16,
+        "slug": "kumertau"
+    },
+    "18053": {
+        "ID": 18053,
+        "formatID": 5,
+        "brandID": 8,
+        "regionID": 2,
+        "cityID": 8650,
+        "address": "г. Кумертау, ул. Карла Маркса, 15",
+        "workingDays": "Ежедневно",
+        "workingTime": "08:00-20:00",
+        "coords": [
+            52.756453,
+            55.793521
+        ],
+        "isActive": true,
+        "allowDelivery": false,
+        "allowOnlinePayment": true,
+        "entityID": 105,
+        "entityName": "Общество с ограниченной ответственностью\"Аптечный склад\"Казань\"",
+        "entitySlug": "as-kazan",
+        "INN": "2311242373",
+        "OGRN": "1172375063970",
+        "entityAddress": "350072, Краснодарский край, Краснодар, Зиповская, 16, литер А, пом 22",
+        "allowUseCard": true,
+        "districtID": 16,
+        "slug": "kumertau"
+    }
+}
